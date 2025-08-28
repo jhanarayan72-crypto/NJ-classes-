@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NJ Tuition Classes</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+      color: #333;
+    }
+    header {
+      background: #0077cc;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      background: #005fa3;
+      padding: 10px;
+      text-align: center;
+    }
+    nav a {
+      color: #fff;
+      margin: 0 15px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    section {
+      padding: 40px;
+      max-width: 900px;
+      margin: auto;
+    }
+    h2 {
+      color: #0077cc;
+      margin-bottom: 10px;
+    }
+    .courses {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+    }
+    .course {
+      flex: 1 1 calc(33% - 20px);
+      background: #f4f4f4;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    footer {
+      background: #0077cc;
+      color: #fff;
+      text-align: center;
+      padding: 15px;
+      margin-top: 20px;
+    }
+    form input, form textarea, form button {
+      width: 100%;
+      padding: 10px;
+      margin: 5px 0;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    form button {
+      background: #0077cc;
+      color: #fff;
+      border: none;
+      cursor: pointer;
+    }
+    form button:hover {
+      background: #005fa3;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Welcome to NJ Tuition Classes</h1>
+    <p>Personalized Learning for Bright Futures</p>
+  </header>
+
+  <nav>
+    <a href="#about">About</a>
+    <a href="#courses">Courses</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <section id="about">
+    <h2>About Us</h2>
+    <p>At NJ Tuition Classes, we provide high-quality education with personal attention. Our mission is to help every student succeed academically and build confidence in their learning.</p>
+  </section>
+
+  <section id="courses">
+    <h2>Courses Offered</h2>
+    <div class="courses">
+      <div class="course">
+        <h3>Mathematics</h3>
+        <p>Classes 6–12 | Basic to Advanced</p>
+      </div>
+      <div class="course">
+        <h3>Science</h3>
+        <p>Physics, Chemistry, Biology | Classes 6–10</p>
+      </div>
+      <div class="course">
+        <h3>English</h3>
+        <p>Grammar, Writing Skills, Literature</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <p><strong>Phone:</strong> +91 9818381991</p>
+    <p><strong>Email:</strong> jhanarayan72@gmail.com</p>
+    <p><strong>Location:</strong> dwarka Delhi </p>
+
+    <h3>Send a Message</h3>
+    <form>
+      <input type="text" placeholder="Your Name" required>
+      <input type="email" placeholder="Your Email" required>
+      <textarea rows="4" placeholder="Your Message"></textarea>
+      <button type="submit">Send</button>
+    </form>
+  </section>
+
+  <footer>
+    <p>© 2025 NJ Tuition Classes | All Rights Reserved</p>
+  </footer>
+
+</body>
+</html>
