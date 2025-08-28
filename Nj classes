@@ -78,7 +78,7 @@
 <body>
 
   <header>
-    <h1>Welcome to NJ Tuition Classes</h1>
+    <h1>Welcome to NJ Classes</h1>
     <p>Personalized Learning for Bright Futures</p>
   </header>
 
@@ -90,19 +90,19 @@
 
   <section id="about">
     <h2>About Us</h2>
-    <p>At NJ Tuition Classes, we provide high-quality education with personal attention. Our mission is to help every student succeed academically and build confidence in their learning.</p>
+    <p>At NJ Classes, we provide high-quality education with personal attention. Our mission is to help every student succeed academically and build confidence in their learning.</p>
   </section>
 
   <section id="courses">
     <h2>Courses Offered</h2>
     <div class="courses">
       <div class="course">
-        <h3>Mathematics physics chemistry biology accountancy economics political science history geography tax fm </h3>
+        <h3>Mathematics,physics,chemistry,biology,accountancy,economics politicalscience,history,geography,tax ,financial management </h3>
         <p>Classes 11–12 and onwards| Basic to Advanced</p>
       </div>
       <div class="course">
         <h3>Science</h3>
-        <p> mathematics science social studies english  | Classes 6–10</p>
+        <p> mathematics,science,social studies,english  | Classes 6–10</p>
       </div>
       <div class="course">
         <h3>English</h3>
