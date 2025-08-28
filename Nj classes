@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>NJ Tuition Classes</title>
+  <title>NJ Classes</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -97,12 +97,12 @@
     <h2>Courses Offered</h2>
     <div class="courses">
       <div class="course">
-        <h3>Mathematics</h3>
-        <p>Classes 6–12 | Basic to Advanced</p>
+        <h3>Mathematics physics chemistry biology accountancy economics political science history geography tax fm </h3>
+        <p>Classes 11–12 and onwards| Basic to Advanced</p>
       </div>
       <div class="course">
         <h3>Science</h3>
-        <p>Physics, Chemistry, Biology | Classes 6–10</p>
+        <p> mathematics science social studies english  | Classes 6–10</p>
       </div>
       <div class="course">
         <h3>English</h3>
@@ -127,7 +127,7 @@
   </section>
 
   <footer>
-    <p>© 2025 NJ Tuition Classes | All Rights Reserved</p>
+    <p>© 2025 NJ Classes | All Rights Reserved</p>
   </footer>
 
 </body>
